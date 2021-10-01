@@ -1,0 +1,22 @@
+{
+  "name": "expressone",
+  "version": "1.0.0",
+  "description": "first server with express",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "server",
+    "stream",
+    "methods",
+    "http"
+  ],
+  "author": "Robby",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
